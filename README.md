@@ -13,6 +13,8 @@ Clone the repository
 
 ```bash
 git clone git@github.com:sunkcosts/satellite-data.git
+cd satellite-data
+pip install -r requirements.txt
 ```
 
 Run the download script.
