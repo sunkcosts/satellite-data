@@ -1,6 +1,6 @@
 # Custom
 .DS_Store
-credentials
+token
 data
 
 # Byte-compiled / optimized / DLL files
