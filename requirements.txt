@@ -1,3 +1,4 @@
 mercantile
 requests
 rich
+Pillow
