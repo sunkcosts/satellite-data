@@ -11,6 +11,5 @@ You will need to get a free [mapbox](https://www.mapbox.com/) API key. The scrip
 
 ```bash
 git clone git@github.com:sunkcosts/satellite-data.git
-cd satellite-data
-python mapbox.py
+cd satellite-data/scripts
 ```
