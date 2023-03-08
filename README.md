@@ -16,14 +16,8 @@ git clone git@github.com:sunkcosts/satellite-data.git
 cd satellite-data/scripts
 ```
 
-Run the download script. This is a dependency for the other script.
+Run the download script.
 
 ```bash
 python download.py
-```
-
-Create composite images.
-
-```bash
-python combine.py
 ```
