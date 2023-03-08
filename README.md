@@ -4,7 +4,7 @@ This is a script for collecting satellite data (including elevation data) for th
 
 ## Dependencies
 
-You will need to get a free [mapbox](https://www.mapbox.com/) API key. The script expects there is a `data` directory in the root folder, and a raw text `token` file containing the mapbox API key.
+You will need to get a free [mapbox](https://www.mapbox.com/) API key. The script expects there is a raw text `token` file containing the mapbox API key in the root directory.
 
 
 ## Usage
