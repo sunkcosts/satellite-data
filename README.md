@@ -13,7 +13,6 @@ Clone the repository
 
 ```bash
 git clone git@github.com:sunkcosts/satellite-data.git
-cd satellite-data/scripts
 ```
 
 Run the download script.
