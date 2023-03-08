@@ -16,7 +16,6 @@ def create_data_paths():
     os.mkdir("../data")
     os.mkdir("../data/satellite")
     os.mkdir("../data/elevation")
-    os.mkdir("../data/synthesis")
 
 
 def compute_tile_ranges(tl: tuple[float], br: tuple[float], z: int) -> tuple[list[int]]:
